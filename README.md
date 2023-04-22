@@ -1,6 +1,6 @@
 # Mon vieux Grimoire
 
-Projet n°7 de la formation Developpeur Web OpenClassrooms
+Projet n°7 de la formation Développeur Web OpenClassrooms
 
 ![Banner](/imagesreadme/16654934257102_DW-P7-Back-end_company-banner.png)
 

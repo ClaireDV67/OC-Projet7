@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const booksRoutes = require('./routes/books');
 const userRoutes = require('./routes/user');
 const path = require('path');
-const password = require('./password')
+const password = require('./utils/password')
 
 // Connexion à la base de données
 mongoose.connect(`mongodb+srv://ClaireDV:${password}@monvieuxgrimoirep7oc.nnybhep.mongodb.net/?retryWrites=true&w=majority`,
