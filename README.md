@@ -36,7 +36,7 @@ Toutes les routes pour les livres doivent disposer d’une autorisation (le toke
 
 ## Models
 
-`User {  
+User {  
     email : String - adresse e-mail de l’utilisateur [unique]  
     password : String - mot de passe haché de l’utilisateur  
 }
@@ -55,7 +55,7 @@ Book {
         }  
     ] - notes données à un livre  
     averageRating : Number - note moyenne du livre  
-}`
+}
 
 
 ## Sécurité
